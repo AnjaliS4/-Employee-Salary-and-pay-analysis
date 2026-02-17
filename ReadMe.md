@@ -59,3 +59,4 @@ This analysis demonstrates how structured SQL querying can:
 - Identify compensation concentration across hierarchy levels
 - Support data-driven workforce planning
 - Highlight potential areas for equity review
+
