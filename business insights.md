@@ -1,5 +1,5 @@
 # Key Insights & Strategic Findings
-## 1. Production Dominates Headcount — But Not Pay Power
+## 1. Production Dominates Headcount but Not Pay Power
 
 - **Production employees:** 179 (over 60% of workforce)  
 - **Average salary:** 14.15 (one of the lowest across departments)  
@@ -127,3 +127,4 @@ The organization demonstrates:
 - Executive compensation is disproportionately high relative to headcount.  
 - Strong standardization suggests limited internal pay volatility.  
 - Leadership diversity could be further evaluated.  
+
